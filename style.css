@@ -1,0 +1,50 @@
+```css
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+body {
+  font-family: 'Poppins';
+}
+Header > div {
+    padding: 0 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid lightgray;  
+}
+nav {background-color;
+    color: rgba(8, 8, 8, 0.8);
+    padding-top: 15px;
+    width: 600px;
+  }
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  nav a {
+    text-decoration: none;
+    color: black;
+  }
+  .blackHeart {
+    width: 20px;
+    margin-right: 1rem;
+  }
+section1 {height: 600px;
+    background-color: rgba(232,217,217,.3);
+   button-background color: #FB3B49;
+  button-box-shadow: 8px 8px 0 rgba(251,59,73,.2)}
+
+    section2 {height: 600px;
+       background-color: rgba(232,217,217,.3);
+       button-background color: #FB3B49;
+        button-box-shadow: 8px 8px 0 rgba(251,59,73,.2)};  
+        heading background color: rgba(255,204,53,0.4); skew(9deg,0deg);
+font-style: italic;}
+
+  section3 > structure-div {
+       display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;}
+
